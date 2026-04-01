@@ -9,7 +9,7 @@ Passionate about business development ❤️
 - 29 years old
 ```
 
-With 10 years of experience building bridges between technology and business, my journey began developing and managing online game servers. I have a 360-degree vision that connects business strategy, user experience, and technical architecture. Today, I lead the creation of management and automation systems that truly impact results.
+Currently, as a Software Engineer, I design and implement scalable architectures with React, TypeScript, Node/Bun, and PostgreSQL, delivering responsive interfaces and high-performance APIs that automate processes and drive real business value. I also build AI-powered solutions, such as coding and operational agents, turning manual bottlenecks into streamlined workflows.
 
 </div>
 
